@@ -1,0 +1,69 @@
+-------------------------------------------------------------------------
+Takohi Android Speech Recognizer Plugin (Unity3+4+5)
+(C)opyright 2015 Takohi 
+[contact@takohi.com]
+-------------------------------------------------------------------------
+
+INSTALLATION FROM UNITY ASSET STORE
+
+After you download and import this package from the Unity Asset Store, this product will be automatically be installed.
+
+After importing is complete, you will be ready to go.
+
+-------------------------------------------------------------------------
+
+Notes
+
+This plugin only works on a Android device.
+
+An AndroidManifest.xml has been added in order to add the required permission RECORD_AUDIO.
+If you want to use your own AndroidManifest.xml, please add this line in it:
+<uses-permission android:name="android.permission.RECORD_AUDIO"/>
+
+For better performance, Internet is also required. 
+
+-------------------------------------------------------------------------
+
+Examples
+
+in  [Project] /Takohi/Examples/AndroidSpeechRecognizerPlugin you will find one example.
+
+-------------------------------------------------------------------------
+
+Demo
+
+You can download a demo to run on your Android device here:
+http://www.takohi.com/data/unity/assets/android_speech_recognizer/unity-android-speech-recognizer-plugin-demo.apk
+
+-------------------------------------------------------------------------
+
+PACKAGE STRUCTURE
+
+ [Project] Plugins					- Android Speech Recognizer Plugin
+
+ [Project] Takohi/Examples/AndroidSpeechRecognizerPlugin	- Android Speech Recognizer Plugin Example
+
+-------------------------------------------------------------------------
+DOCUMENTATION
+
+C# CLASS REFERENCE
+http://www.takohi.com/data/unity/assets/android_speech_recognizer/documentation/
+
+-------------------------------------------------------------------------
+
+UPDATE
+
+1.1 2016/01/13
+Replace DLL by CS file for compatibility
+
+1.0 2015/10/09
+Initial version.
+
+If you have any questions regarding this product, send us an email at contact@takohi.com.
+
+-------------------------------------------------------------------------
+
+Thanks for your interest in our components,
+
+	The Takohi Team.
+

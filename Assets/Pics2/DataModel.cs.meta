@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: 8123947ab543f4c35ada1db1b7728cbe
+timeCreated: 1491554070
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - rick: {fileID: 2800000, guid: 30199aad9e6c14d43b69e29049c10f5b, type: 3}
+  - rick_0: {fileID: 2800000, guid: 0dd5ef7bba4fb4476b9a3bd83c2cd91f, type: 3}
+  - rick_1: {fileID: 2800000, guid: 5b1ca15b18b9245cc836179a087a0c66, type: 3}
+  - rick_2: {fileID: 2800000, guid: d49aa9f79ad1f4459bf296384cbe65bc, type: 3}
+  - rick_3: {fileID: 2800000, guid: 5d05795562ba14b30befa5f414cc6539, type: 3}
+  - morty: {fileID: 2800000, guid: 7c7a8efc3643d01478598ee01749b470, type: 3}
+  - morty_0: {fileID: 2800000, guid: 609f7cea3018b41ba8135003a3312ab0, type: 3}
+  - morty_1: {fileID: 2800000, guid: e8489b1d4420f4905a31b0372e9be032, type: 3}
+  - morty_2: {fileID: 2800000, guid: d634b875110464d6e989a05ca7e04b37, type: 3}
+  - morty_3: {fileID: 2800000, guid: e751718550e504304a12c5ac7a8bebf9, type: 3}
+  - jerry: {fileID: 2800000, guid: 60faa8df2ba122a4389b48ec8bc6ce88, type: 3}
+  - jerry_0: {fileID: 2800000, guid: 5e9b5c09f9dc244089895e0be04ee056, type: 3}
+  - jerry_1: {fileID: 2800000, guid: 66ab6869931564c40ae942aabaefaf0c, type: 3}
+  - jerry_2: {fileID: 2800000, guid: ece248f478d9246c1b8a30de1c24f633, type: 3}
+  - jerry_3: {fileID: 2800000, guid: 1f9468d15c51342cdbbaef5ccfa93c24, type: 3}
+  - summer: {fileID: 2800000, guid: b695cf48c3f454b9d99ed1b03c51220e, type: 3}
+  - summer_0: {fileID: 2800000, guid: b05919d64759347d78fb73b2c2c1135b, type: 3}
+  - summer_1: {fileID: 2800000, guid: 431422433dbf14ae0866fc29d4dc9685, type: 3}
+  - summer_2: {fileID: 2800000, guid: 05f9f754cc3ea44c1b16b3dea89b5805, type: 3}
+  - summer_3: {fileID: 2800000, guid: ce0df6c8c60f144a3b0ec59abf0f392c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
